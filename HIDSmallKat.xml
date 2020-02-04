@@ -1,11 +1,11 @@
 <root>
 <mobilebase>
 	<cadEngine>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>Bowler/MediumCad.groovy</file>
 	</cadEngine>
 	<driveEngine>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>walking.groovy</file>
 	</driveEngine>
 
@@ -14,11 +14,11 @@
 
 <name>RearLeft</name>
 	<cadEngine>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>Bowler/MediumCad.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>DefaultDhSolver.groovy</file>
 	</kinematics>
 <link>
@@ -209,11 +209,11 @@
 
 <name>FrontRight</name>
 	<cadEngine>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>Bowler/MediumCad.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>DefaultDhSolver.groovy</file>
 	</kinematics>
 <link>
@@ -404,11 +404,11 @@
 
 <name>FrontLeft</name>
 	<cadEngine>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>Bowler/MediumCad.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>DefaultDhSolver.groovy</file>
 	</kinematics>
 <link>
@@ -599,11 +599,11 @@
 
 <name>RearRight</name>
 	<cadEngine>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>Bowler/MediumCad.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>DefaultDhSolver.groovy</file>
 	</kinematics>
 <link>
@@ -794,11 +794,11 @@
 
 <name>Head</name>
 	<cadEngine>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>Bowler/MediumCad.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>DefaultDhSolver.groovy</file>
 	</kinematics>
 <link>
@@ -935,11 +935,11 @@
 
 <name>Tail</name>
 	<cadEngine>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>Bowler/MediumCad.groovy</file>
 	</cadEngine>
 	<kinematics>
-		<git>https://github.com/madhephaestus/HIDSmallKat.git</git>
+		<git>https://github.com/OperationSmallKat/HIDSmallKat.git</git>
 		<file>DefaultDhSolver.groovy</file>
 	</kinematics>
 <link>
